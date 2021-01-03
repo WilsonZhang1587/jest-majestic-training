@@ -1,0 +1,13 @@
+{
+  "name": "majestic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^26.4.2",
+    "jest-cucumber": "^3.0.0",
+    "jest-image-snapshot": "^4.2.0",
+    "majestic": "^1.7.0",
+    "puppeteer-core": "^5.2.1"
+  }
+}
